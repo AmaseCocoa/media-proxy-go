@@ -1,5 +1,5 @@
 # media-proxy-go
-Goの勉強のために作成されたmisskey-dev/media-proxyの実装。ほとんどの機能は実装されています
+Goの勉強のために作成された[misskey-dev/media-proxy](https://github.com/misskey-dev/media-proxy)の実装。ほとんどの機能は実装されています
 
 ## 制限
 * 利用しているライブラリの都合でWindowsでは動作しません (クロスコンパイルも失敗します)
