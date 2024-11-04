@@ -1,2 +1,7 @@
 # media-proxy-go
-Goの勉強のために作成されたmisskey-dev/media-proxyの実装
+Goの勉強のために作成されたmisskey-dev/media-proxyの実装。ほとんどの機能は実装されています
+
+## 制限
+* 利用しているライブラリの都合でWindowsでは動作しません
+* 一部のオプションは (問題が発生するなどの理由があるため)対応していません
+* ビルドする場合はlibvipsが必要です
